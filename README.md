@@ -1,2 +1,2 @@
 # C++
-Estudos e poo com c++
+Com poo e maratonas com c++
